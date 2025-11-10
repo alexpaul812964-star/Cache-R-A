@@ -1,2 +1,6 @@
 # Cache-R-A
-Algorithm for cache
+Algorithm for cache 
+
+# INTRODUCTION 
+
+a
